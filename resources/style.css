@@ -2,6 +2,7 @@ html {text-align: center;
       font-family: Helvetica;
     }
 
+
 h1 {font-size: 70px;
     font-weight: bold;
     color: white;
@@ -22,7 +23,7 @@ p {font-size: 14px;
   }
 
 .Navigation1 {background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
-}
+              background-size: cover;}
 
 #Designed {background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
            font-weight: bold;
